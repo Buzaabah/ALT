@@ -17,8 +17,8 @@ title: African Language Technology Course
 tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Happy Buzaaba
-baseurl: 'https://github.com/Buzaabah/ALT.git' # the subpath of your site, e.g. /blog
-url: 'https://github.com/Buzaabah/ALT.git' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/ALT' # the subpath of your site, e.g. /blog
+url: 'https://buzaabah.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
